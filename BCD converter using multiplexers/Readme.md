@@ -20,3 +20,5 @@ Even though valid BCD is defined for 0–9, this design gives outputs for all 16
 
 Truth Table
 The full truth table is provided , listing all 16 input combinations and their corresponding BCD outputs.
+
+![BCD converter using multiplexers/Circuit Diagram.png](https://github.com/nhayaan07/Digital-Logic-Design/blob/418faeffb9124a9e54cf60ef47369a0c79b6f109/BCD%20converter%20using%20multiplexers/Circuit%20Diagram.png)
